@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/Users/siddhuachary/dev/tcpip_stack",
+            "binaryPath": "/Users/siddhuachary/dev/tcpip_stack/tcpip",
+            "binaryArgs": []
+        }
+    ]
+}
